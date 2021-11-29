@@ -1,3 +1,4 @@
-x = "Hello World"
+x = 4
 
-print(x)
+if x == 4:
+  print("Hello World"
